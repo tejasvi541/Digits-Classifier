@@ -12,8 +12,10 @@
 
 ## Play Around with it ---
 
-[Netifly Webapp Link]()
+### [Netifly Webapp Link](https://handdigits.netlify.app/)
 
 - First Wait for sometime till the model trains.
 
 - When the model get trained the square in the left will get filled with black, then draw some clothing items to classify.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b6e62d5-e467-4824-9e55-37d6b84170d9/deploy-status)](https://app.netlify.com/sites/handdigits/deploys)
